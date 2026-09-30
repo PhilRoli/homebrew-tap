@@ -24,10 +24,19 @@ Menu bar app for tracking Austrian trains.
 brew install --cask traintracker
 ```
 
+### [ClaudeUsage](https://github.com/PhilRoli/claudeusage)
+
+Menu bar app for tracking Claude Code usage limits.
+
+```bash
+brew install --cask claudeusage
+```
+
 ## Update
 
 ```bash
 brew update
 brew upgrade oebb-monitor
 brew upgrade --cask traintracker
+brew upgrade --cask claudeusage
 ```
