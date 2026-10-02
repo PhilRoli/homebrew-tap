@@ -32,6 +32,14 @@ Menu bar app for tracking Claude Code usage limits.
 brew install --cask claudeusage
 ```
 
+### [ServerPulse](https://github.com/PhilRoli/serverpulse)
+
+Menu bar app for monitoring Docker servers.
+
+```bash
+brew install --cask serverpulse
+```
+
 ## Update
 
 ```bash
@@ -39,4 +47,5 @@ brew update
 brew upgrade oebb-monitor
 brew upgrade --cask traintracker
 brew upgrade --cask claudeusage
+brew upgrade --cask serverpulse
 ```
