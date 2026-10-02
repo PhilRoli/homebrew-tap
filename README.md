@@ -40,6 +40,14 @@ Menu bar app for monitoring Docker servers.
 brew install --cask serverpulse
 ```
 
+### [RunPulse](https://github.com/PhilRoli/runpulse)
+
+Menu bar app for your GitHub Actions runs.
+
+```bash
+brew install --cask runpulse
+```
+
 ## Update
 
 ```bash
@@ -48,4 +56,5 @@ brew upgrade oebb-monitor
 brew upgrade --cask traintracker
 brew upgrade --cask claudeusage
 brew upgrade --cask serverpulse
+brew upgrade --cask runpulse
 ```
