@@ -48,6 +48,14 @@ Menu bar app for your GitHub Actions runs.
 brew install --cask runpulse
 ```
 
+### [SongPulse](https://github.com/PhilRoli/songpulse)
+
+Menu bar app to see your current Spotify song.
+
+```bash
+brew install --cask songpulse
+```
+
 ## Update
 
 ```bash
@@ -57,4 +65,5 @@ brew upgrade --cask traintracker
 brew upgrade --cask claudeusage
 brew upgrade --cask serverpulse
 brew upgrade --cask runpulse
+brew upgrade --cask songpulse
 ```
