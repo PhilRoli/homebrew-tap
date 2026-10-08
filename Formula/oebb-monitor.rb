@@ -16,6 +16,13 @@ class OebbMonitor < Formula
     end
   end
 
+  on_linux do
+    on_intel do
+      url "https://github.com/PhilRoli/oebb-monitor/releases/download/v0.2.6/oebb-monitor-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+    end
+  end
+
   def install
     bin.install "oebb-monitor"
   end
