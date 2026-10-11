@@ -1,6 +1,6 @@
 cask "runpulse" do
-  version "1.0.1"
-  sha256 "e269eae7292fbafdca156367213e8b08d769c228b75524743004a92aadf4e221"
+  version "1.0.2"
+  sha256 "5b659353a5b94e52b5b6657c76ccb0c694a2426e5c0e08bd8db4b82be4a9b2db"
 
   url "https://github.com/PhilRoli/runpulse/releases/download/v#{version}/RunPulse-#{version}.app.zip"
   name "RunPulse"
