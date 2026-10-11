@@ -1,6 +1,6 @@
 cask "traintracker" do
-  version "1.2.0"
-  sha256 "bca175528fb7f6a1de9cd38b6be5b08cf214fdad3d61e48ef174f8a7fbf0f03e"
+  version "1.3.0"
+  sha256 "1a7c4e48b72035011928c283c02457404c272f961afab1a2048e9cb9479b3908"
 
   url "https://github.com/PhilRoli/traintracker/releases/download/v#{version}/TrainTracker-#{version}.app.zip"
   name "TrainTracker"
