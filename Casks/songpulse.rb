@@ -1,6 +1,6 @@
 cask "songpulse" do
-  version "1.0.2"
-  sha256 "9f4d01b3b7bf93b3a489e38dfbdc5f86450cf049ae98b9be7916b3b1e0db817e"
+  version "1.0.3"
+  sha256 "2ab6744cdccec1a93d7ab60c937bfc5211ea422b5669e97699dbee24f15388d5"
 
   url "https://github.com/PhilRoli/songpulse/releases/download/v#{version}/SongPulse-#{version}.app.zip"
   name "SongPulse"
