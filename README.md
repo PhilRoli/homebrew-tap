@@ -8,7 +8,7 @@ Homebrew tap for Philipp Rolinek's personal command-line and macOS tools.
 brew tap PhilRoli/tap
 ```
 
-### [oebb-monitor](https://github.com/PhilRoli/oebb-monitor)
+### <img src="https://raw.githubusercontent.com/PhilRoli/oebb-monitor/main/assets/icon.png" width="32" height="32" align="absmiddle" alt=""> [oebb-monitor](https://github.com/PhilRoli/oebb-monitor)
 
 Terminal UI for live ÖBB departure and arrival data.
 
@@ -16,7 +16,7 @@ Terminal UI for live ÖBB departure and arrival data.
 brew install oebb-monitor
 ```
 
-### [TrainTracker](https://github.com/PhilRoli/traintracker)
+### <img src="https://raw.githubusercontent.com/PhilRoli/traintracker/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [TrainTracker](https://github.com/PhilRoli/traintracker)
 
 Menu bar app for tracking Austrian trains.
 
@@ -24,7 +24,7 @@ Menu bar app for tracking Austrian trains.
 brew install --cask traintracker
 ```
 
-### [ClaudeUsage](https://github.com/PhilRoli/claudeusage)
+### <img src="https://raw.githubusercontent.com/PhilRoli/claudeusage/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [ClaudeUsage](https://github.com/PhilRoli/claudeusage)
 
 Menu bar app for tracking Claude Code usage limits.
 
@@ -32,7 +32,7 @@ Menu bar app for tracking Claude Code usage limits.
 brew install --cask claudeusage
 ```
 
-### [ServerPulse](https://github.com/PhilRoli/serverpulse)
+### <img src="https://raw.githubusercontent.com/PhilRoli/serverpulse/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [ServerPulse](https://github.com/PhilRoli/serverpulse)
 
 Menu bar app for monitoring Docker servers.
 
@@ -40,7 +40,7 @@ Menu bar app for monitoring Docker servers.
 brew install --cask serverpulse
 ```
 
-### [RunPulse](https://github.com/PhilRoli/runpulse)
+### <img src="https://raw.githubusercontent.com/PhilRoli/runpulse/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [RunPulse](https://github.com/PhilRoli/runpulse)
 
 Menu bar app for your GitHub Actions runs.
 
@@ -48,7 +48,7 @@ Menu bar app for your GitHub Actions runs.
 brew install --cask runpulse
 ```
 
-### [SongPulse](https://github.com/PhilRoli/songpulse)
+### <img src="https://raw.githubusercontent.com/PhilRoli/songpulse/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [SongPulse](https://github.com/PhilRoli/songpulse)
 
 Menu bar app to see your current Spotify song.
 
@@ -56,7 +56,7 @@ Menu bar app to see your current Spotify song.
 brew install --cask songpulse
 ```
 
-### [Weather](https://github.com/PhilRoli/weather)
+### <img src="https://raw.githubusercontent.com/PhilRoli/weather/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [Weather](https://github.com/PhilRoli/weather)
 
 Menu bar weather app with forecast, powered by Open-Meteo.
 
