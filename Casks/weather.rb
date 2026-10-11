@@ -1,6 +1,6 @@
 cask "weather" do
-  version "1.0.1"
-  sha256 "abeede385874dfc144b0646ba47ac9e43405f7b6c741e9cf8f54399637bb5d6e"
+  version "1.0.2"
+  sha256 "9af469eea55a31c4260ac3c7498b9336139f82ff124f68bce00b0894e14d9b57"
 
   url "https://github.com/PhilRoli/weather/releases/download/v#{version}/Weather-#{version}.app.zip"
   name "Weather"
