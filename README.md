@@ -56,6 +56,14 @@ Menu bar app to see your current Spotify song.
 brew install --cask songpulse
 ```
 
+### [Weather](https://github.com/PhilRoli/weather)
+
+Menu bar weather app with forecast, powered by Open-Meteo.
+
+```bash
+brew install --cask weather
+```
+
 ## Update
 
 ```bash
@@ -66,4 +74,5 @@ brew upgrade --cask claudeusage
 brew upgrade --cask serverpulse
 brew upgrade --cask runpulse
 brew upgrade --cask songpulse
+brew upgrade --cask weather
 ```
