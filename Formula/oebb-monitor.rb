@@ -1,25 +1,25 @@
 class OebbMonitor < Formula
   desc "Terminal UI for live ÖBB departure and arrival data"
   homepage "https://github.com/PhilRoli/oebb-monitor"
-  version "0.2.8"
+  version "0.2.9"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/PhilRoli/oebb-monitor/releases/download/v0.2.8/oebb-monitor-aarch64-apple-darwin.tar.gz"
-      sha256 "470955840b49239eceebfb965556c6c683aa571a6d0d2257710598a3b3148158"
+      url "https://github.com/PhilRoli/oebb-monitor/releases/download/v0.2.9/oebb-monitor-aarch64-apple-darwin.tar.gz"
+      sha256 "7387af8a598a80ab76d854cf4439cd51eb9a71d0bfcd7061eadfaef33c878ee9"
     end
 
     on_intel do
-      url "https://github.com/PhilRoli/oebb-monitor/releases/download/v0.2.8/oebb-monitor-x86_64-apple-darwin.tar.gz"
-      sha256 "dbea59df73fea4c39f7571fabdafe33bff59c48112c45698e37203c0f1295ce5"
+      url "https://github.com/PhilRoli/oebb-monitor/releases/download/v0.2.9/oebb-monitor-x86_64-apple-darwin.tar.gz"
+      sha256 "538c075c6800ce1f3b185df3a983c2fb4d80266f1f988e15073b3880f5ee6b9e"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/PhilRoli/oebb-monitor/releases/download/v0.2.8/oebb-monitor-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "4000829751e436f9e6c4257c78382880c66b1c2868ae1b7d250928c6b9f43fc1"
+      url "https://github.com/PhilRoli/oebb-monitor/releases/download/v0.2.9/oebb-monitor-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "bd529be403d5f20ee500134e503646ad683d6b8f798769b596ac8402ebf645a9"
     end
   end
 
