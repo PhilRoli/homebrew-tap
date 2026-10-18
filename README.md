@@ -40,6 +40,14 @@ Menu bar app for monitoring Docker servers.
 brew install --cask serverpulse
 ```
 
+### <img src="https://raw.githubusercontent.com/PhilRoli/claudepulse/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [ClaudePulse](https://github.com/PhilRoli/claudepulse)
+
+Menu bar app for your Claude Code sessions.
+
+```bash
+brew install --cask claudepulse
+```
+
 ### <img src="https://raw.githubusercontent.com/PhilRoli/runpulse/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [RunPulse](https://github.com/PhilRoli/runpulse)
 
 Menu bar app for your GitHub Actions runs.
@@ -73,6 +81,7 @@ brew upgrade --cask traintracker
 brew upgrade --cask claudeusage
 brew upgrade --cask serverpulse
 brew upgrade --cask runpulse
+brew upgrade --cask claudepulse
 brew upgrade --cask songpulse
 brew upgrade --cask weather
 ```
