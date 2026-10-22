@@ -1,6 +1,6 @@
 cask "claudepulse" do
-  version "1.0.0"
-  sha256 "3602449dedc785c4c4b9b39bc7ef931cf18658c27f194a8d2ebe3444b342a262"
+  version "1.1.0"
+  sha256 "fa8bbe8f81374ca6443dae73cc1d7c52070684cf74d8ab4d12d5ddfc78ab70f3"
 
   url "https://github.com/PhilRoli/claudepulse/releases/download/v#{version}/ClaudePulse-#{version}.app.zip"
   name "ClaudePulse"
