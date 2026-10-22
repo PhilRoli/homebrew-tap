@@ -72,6 +72,14 @@ Menu bar weather app with forecast, powered by Open-Meteo.
 brew install --cask weather
 ```
 
+### <img src="https://raw.githubusercontent.com/PhilRoli/usbtether/main/packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [UsbTether](https://github.com/PhilRoli/usbtether)
+
+Android USB tethering for macOS: RNDIS driver with approval popup.
+
+```bash
+brew install --cask usbtether
+```
+
 ## Update
 
 ```bash
@@ -84,4 +92,5 @@ brew upgrade --cask runpulse
 brew upgrade --cask claudepulse
 brew upgrade --cask songpulse
 brew upgrade --cask weather
+brew upgrade --cask usbtether
 ```
