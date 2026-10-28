@@ -1,6 +1,6 @@
 cask "serverpulse" do
-  version "1.2.2"
-  sha256 "b1966a55dddb48acd864400d98c103b0a1d78bbc16f5bf604c39cc48d1c94743"
+  version "1.3.0"
+  sha256 "7c31216192f8ed7080bd3b968ae986f72088f4ad592679a294eb250df841494f"
 
   url "https://github.com/PhilRoli/serverpulse/releases/download/v#{version}/ServerPulse-#{version}.app.zip"
   name "ServerPulse"
