@@ -1,4 +1,4 @@
-cask "internet-check" do
+cask "internetcheck" do
   version "0.0.0"
   sha256 "0000000000000000000000000000000000000000000000000000000000000000"
 

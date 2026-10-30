@@ -61,7 +61,7 @@ brew install --cask runpulse
 Menu bar app that shows whether you're online and which connection you use.
 
 ```bash
-brew install --cask internet-check
+brew install --cask internetcheck
 ```
 
 ### <img src="https://raw.githubusercontent.com/PhilRoli/songpulse/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [SongPulse](https://github.com/PhilRoli/songpulse)
@@ -97,7 +97,7 @@ brew upgrade --cask traintracker
 brew upgrade --cask claudeusage
 brew upgrade --cask serverpulse
 brew upgrade --cask runpulse
-brew upgrade --cask internet-check
+brew upgrade --cask internetcheck
 brew upgrade --cask claudepulse
 brew upgrade --cask songpulse
 brew upgrade --cask weather
