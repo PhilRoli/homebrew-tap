@@ -56,6 +56,14 @@ Menu bar app for your GitHub Actions runs.
 brew install --cask runpulse
 ```
 
+### <img src="https://raw.githubusercontent.com/PhilRoli/internet-check/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [InternetCheck](https://github.com/PhilRoli/internet-check)
+
+Menu bar app that shows whether you're online and which connection you use.
+
+```bash
+brew install --cask internet-check
+```
+
 ### <img src="https://raw.githubusercontent.com/PhilRoli/songpulse/main/Packaging/icon.png" width="32" height="32" align="absmiddle" alt=""> [SongPulse](https://github.com/PhilRoli/songpulse)
 
 Menu bar app to see your current Spotify song.
@@ -89,6 +97,7 @@ brew upgrade --cask traintracker
 brew upgrade --cask claudeusage
 brew upgrade --cask serverpulse
 brew upgrade --cask runpulse
+brew upgrade --cask internet-check
 brew upgrade --cask claudepulse
 brew upgrade --cask songpulse
 brew upgrade --cask weather
