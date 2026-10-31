@@ -1,6 +1,6 @@
 cask "usbtether" do
-  version "0.1.1"
-  sha256 "388aa25a4577459ffa684df08f93710bc071ca177ca97d7b61f17825efaa75ed"
+  version "0.1.2"
+  sha256 "364a3624de507828866df0c2611d03f1ceda4cdb59910c0d81801c52e95a96b7"
 
   url "https://github.com/PhilRoli/usbtether/releases/download/v#{version}/UsbTether-#{version}.zip"
   name "UsbTether"
