@@ -1,6 +1,6 @@
 cask "internetcheck" do
-  version "1.1.0"
-  sha256 "ab8d16bd6fa466cc1342130e72c56dd46c3caed5c17aa14341b616a3d4905c57"
+  version "1.1.1"
+  sha256 "ef65b92f104c818a23a483bf452d94502235bceb4bb3c25e77521e5662e5babd"
 
   url "https://github.com/PhilRoli/internet-check/releases/download/v#{version}/InternetCheck-#{version}.app.zip"
   name "InternetCheck"
